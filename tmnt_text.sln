@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMNTTool", "TMNTTool.csproj", "{56FB3C4D-7049-4140-9A3B-C65E71071C52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FB3C4D-7049-4140-9A3B-C65E71071C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FB3C4D-7049-4140-9A3B-C65E71071C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FB3C4D-7049-4140-9A3B-C65E71071C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FB3C4D-7049-4140-9A3B-C65E71071C52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39B0DBC6-0336-4849-99E4-DD38D58E2112}
+	EndGlobalSection
+EndGlobal
